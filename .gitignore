@@ -1,0 +1,5 @@
+# git repo is not initialised right now, but just making sure unnecessary files are prevented from going to my github public repo
+
+/dist
+/node_modules
+/.env
